@@ -77,6 +77,20 @@
    .second-title {
       top: -20px;
    }
+   .App {
+      margin: 0;
+      padding: 0;
+      width: 100vw;
+      height: 100%;
+      overflow: hidden;
+      position: relative;
+      background: #364de3;
+      z-index: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      -ms-overflow-style: none;
+    }
 }
 
 @media screen and (max-width: 380px) {
