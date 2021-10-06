@@ -1,6 +1,6 @@
 import './App.css';
 import Member from './components/members/member'
-import { membersData } from "./data";
+import { projectsData } from "./data";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         <p className="second-title">Be full on creative with your ideas</p></h1>
       </div>
       <div className="members">
-      {membersData.map((data, key) => {
+      {projectsData.map((data, key) => {
           return (
             <div key={key}>
               <Member
