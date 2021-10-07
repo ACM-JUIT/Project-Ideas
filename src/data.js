@@ -2,7 +2,11 @@ export const projectsData = [
    {
       projectName: "Aarhan Khan",
       techStack: "developer of this site",
-    }, 
+    },
+   {
+    projectName: "Tripsplit",
+    techStack: "An app to slipt the trip cost between friends.",
+   },
     {
       projectName: "bdab",
       techStack: "developer of this site",
