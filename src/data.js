@@ -31,4 +31,8 @@ export const projectsData = [
       projectName: "Tail Wags",
       techStack: "An app to solve all your pet's needs.",
     },
+    {
+      projectName: "Calm",
+      techStack: "An app to help you meditate",
+    },
   ];
