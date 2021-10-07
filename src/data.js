@@ -2,11 +2,15 @@ export const projectsData = [
    {
       projectName: "Aarhan Khan",
       techStack: "developer of this site",
-    },
+   },
    {
     projectName: "Tripsplit",
     techStack: "An app to slipt the trip cost between friends.",
    },
+    {
+      projectName: "Task Assistent",
+      techStack: "A AI bot used for telling our to do list for the day,wheather we have a lecture or another important work it would help us manage our work .",
+    },
     {
       projectName: "bdab",
       techStack: "developer of this site",
