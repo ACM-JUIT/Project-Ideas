@@ -36,6 +36,10 @@ export const projectsData = [
       techStack: "An app to solve all your pet's needs.",
     },
     {
+      projectName: "Mind Focusing",
+      techStack: "An App which helps you to focus on thing in which you want to focus, Shows you relaxing Wallpapers and also have a Pomodoro clock which helps you start your sessions to Learn new things",
+    }, 
+   {
       projectName: "Calm",
       techStack: "An app to help you meditate",
     },
