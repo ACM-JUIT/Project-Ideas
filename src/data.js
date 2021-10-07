@@ -2,7 +2,15 @@ export const projectsData = [
    {
       projectName: "Aarhan Khan",
       techStack: "developer of this site",
-    }, 
+   },
+   {
+    projectName: "Tripsplit",
+    techStack: "An app to slipt the trip cost between friends.",
+   },
+    {
+      projectName: "Task Assistent",
+      techStack: "A AI bot used for telling our to do list for the day,wheather we have a lecture or another important work it would help us manage our work .",
+    },
     {
       projectName: "bdab",
       techStack: "developer of this site",
@@ -31,4 +39,8 @@ export const projectsData = [
       projectName: "Mind Focusing",
       techStack: "An App which helps you to focus on thing in which you want to focus, Shows you relaxing Wallpapers and also have a Pomodoro clock which helps you start your sessions to Learn new things",
     }, 
+   {
+      projectName: "Calm",
+      techStack: "An app to help you meditate",
+    },
   ];
