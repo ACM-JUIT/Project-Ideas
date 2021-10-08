@@ -55,6 +55,10 @@ export const projectsData = [
       projectName: "Calm",
       techStack: "An app to help you meditate",
     },
+    {
+      projectName: "liscence",
+      techStack: "An app to tell you are elligible for driving or not",
+    },
       {
       projectName: "Easy Learn",
       techStack: "an app that tracks assignments and provides learning material related to them",
