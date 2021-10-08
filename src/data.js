@@ -35,7 +35,10 @@ export const projectsData = [
       projectName: "Tail Wags",
       techStack: "An app to solve all your pet's needs.",
     },
-  
+  {
+      projectName: "Rythmmy",
+      techStack: "An app dedicated to all the music lovers in which they can create their own music by their own lyrics and beats.",
+    },
   {
       projectName: "ROBOME",
       techStack: "A.I. program that allows to configure basic robot movement controls.",
