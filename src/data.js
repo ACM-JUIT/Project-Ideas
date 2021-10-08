@@ -66,4 +66,8 @@ export const projectsData = [
       projectName: "LearnGamesWithMe",
       techStack: "an app that will have important key functions ,Commands, Tactics written for various online games and several tactics ,positions for offline games as well.",
       },
+  {
+      projectName: "Doorbell cum Visitor Indicator",
+      techStack: "This doorbell cum visitor indicator circuit can give identification of the visitor to your home in your absence",
+    },
   ];
