@@ -55,5 +55,8 @@ export const projectsData = [
       {
       projectName: "Easy Learn",
       techStack: "an app that tracks assignments and provides learning material related to them",
+      }, {
+      projectName: "LearnGamesWithMe",
+      techStack: "an app that will have important key functions ,commands, tactics written for various online games and several tactics ,positions for offline games as well.",
       },
   ];
