@@ -66,6 +66,10 @@ export const projectsData = [
       projectName: "LearnGamesWithMe",
       techStack: "an app that will have important key functions ,Commands, Tactics written for various online games and several tactics ,positions for offline games as well.",
       },
+      {
+        projectName: "A.D.D",
+        techStack: "Assistant for Drowsy Driving : It will observe driver's behaviour and will stop vehicle and alarm driver about his drowsy driving , it will coordinate with EV's software to change music type to keep driver awake and enable auto pilot.",
+     },
   {
       projectName: "Doorbell cum Visitor Indicator",
       techStack: "This doorbell cum visitor indicator circuit can give identification of the visitor to your home in your absence",
