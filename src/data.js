@@ -56,4 +56,8 @@ export const projectsData = [
       projectName: "Easy Learn",
       techStack: "an app that tracks assignments and provides learning material related to them",
       },
+      {
+        projectName: "A.D.D",
+        techStack: "Assistant for Drowsy Driving : It will observe driver's behaviour and will stop vehicle and alarm driver about his drowsy driving , it will coordinate with EV's software to change music type to keep driver awake and enable auto pilot.",
+     },
   ];
