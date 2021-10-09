@@ -83,4 +83,4 @@ export const projectsData = [
       projectName: "task reminder",
       techStack: "This app helps you to track your time",
     },
-];     
+    
