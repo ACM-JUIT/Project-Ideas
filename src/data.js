@@ -62,7 +62,8 @@ export const projectsData = [
       {
       projectName: "Easy Learn",
       techStack: "an app that tracks assignments and provides learning material related to them",
-      }, {
+      }, 
+    {
       projectName: "LearnGamesWithMe",
       techStack: "an app that will have important key functions ,Commands, Tactics written for various online games and several tactics ,positions for offline games as well.",
       },
@@ -78,4 +79,8 @@ export const projectsData = [
       projectName: "Alert",
       techStack: "An app tells you what to do during a disaster.",
     },
-  ];
+  {
+      projectName: "task reminder",
+      techStack: "This app helps you to track your time",
+    },
+];
