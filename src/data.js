@@ -74,4 +74,8 @@ export const projectsData = [
       projectName: "Doorbell cum Visitor Indicator",
       techStack: "This doorbell cum visitor indicator circuit can give identification of the visitor to your home in your absence",
     },
+   {
+      projectName: "Alcohol Detectors",
+      techStack: "This device will sense the consumption of alcohol by the drivers and will correspondingly limit the max speed of car in order to avoid accidents",
+   },
   ];
