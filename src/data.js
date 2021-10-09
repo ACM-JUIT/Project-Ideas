@@ -79,3 +79,7 @@ export const projectsData = [
       techStack: "An app tells you what to do during a disaster.",
     },
   ];
+  {
+      projectName: "task reminder",
+      techStack: "This app helps you to track your time",
+    },
