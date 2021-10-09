@@ -78,4 +78,8 @@ export const projectsData = [
       projectName: "Alert",
       techStack: "An app tells you what to do during a disaster.",
     },
+{
+      projectName: "3d-Navigation",
+      techStack: "An app that shows real time navigation,traffic updates with video navigation",
+    },
   ];
