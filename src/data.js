@@ -83,4 +83,8 @@ export const projectsData = [
       projectName: "task reminder",
       techStack: "This app helps you to track your time",
     },
+   {
+      projectName: "dairy car",
+      techStack: "Distribute milk through IOT",
+    },
 ];
