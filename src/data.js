@@ -87,4 +87,8 @@ export const projectsData = [
       projectName: "dairy car",
       techStack: "Distribute milk through IOT",
     },
+   {
+      projectName: "Farm weeder",
+      techStack: "weeding robots with elixier",
+    },
 ];
