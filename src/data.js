@@ -75,9 +75,17 @@ export const projectsData = [
       projectName: "Doorbell cum Visitor Indicator",
       techStack: "This doorbell cum visitor indicator circuit can give identification of the visitor to your home in your absence",
     },
+   {
+      projectName: "Alcohol Detectors",
+      techStack: "This device will sense the consumption of alcohol by the drivers and will correspondingly limit the max speed of car in order to avoid accidents",
+   },
  {
       projectName: "Alert",
       techStack: "An app tells you what to do during a disaster.",
+    },
+{
+      projectName: "3d-Navigation",
+      techStack: "An app that shows real time navigation,traffic updates with video navigation",
     },
   {
       projectName: "task reminder",
@@ -91,4 +99,12 @@ export const projectsData = [
       projectName: "one eye",
       techStack: "AI program connected to building security cameras capable to identify people using face recognition and barcode scanning and track intruders",
     },
+  {
+      projectName: "Farm weeder",
+      techStack: "weeding robots with elixier",
+    },
+  {
+      projectName: "advanced alarm clock",
+      techStack: "an alarm that will give you maths problems in morning and it will not stop ringing until the person solves it, so you wake up in morning.",
+   },
 ];
