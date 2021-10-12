@@ -117,6 +117,6 @@ export const projectsData = [
    },
    {
     projectName: "Classroom with Video Chat",
-    techStack:"React for frontend. And Node.JS, Express.JS, and MongoDb for backend."
+    techStack:"React for frontend. And Node.JS, Express.JS, and MongoDB for backend."
    }
 ];
