@@ -62,7 +62,8 @@ export const projectsData = [
       {
       projectName: "Easy Learn",
       techStack: "an app that tracks assignments and provides learning material related to them",
-      }, {
+      }, 
+    {
       projectName: "LearnGamesWithMe",
       techStack: "an app that will have important key functions ,Commands, Tactics written for various online games and several tactics ,positions for offline games as well.",
       },
@@ -82,4 +83,16 @@ export const projectsData = [
       projectName: "3d-Navigation",
       techStack: "An app that shows real time navigation,traffic updates with video navigation",
     },
-  ];
+  {
+      projectName: "task reminder",
+      techStack: "This app helps you to track your time",
+    },
+   {
+      projectName: "dairy car",
+      techStack: "Distribute milk through IOT",
+    },
+  {
+      projectName: "advanced alarm clock",
+      techStack: "an alarm that will give you maths problems in morning and it will not stop ringing until the person solves it, so you wake up in morning.",
+   },
+];
