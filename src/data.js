@@ -115,4 +115,8 @@ export const projectsData = [
       projectName: "advanced alarm clock",
       techStack: "an alarm that will give you maths problems in morning and it will not stop ringing until the person solves it, so you wake up in morning.",
    },
+   {
+    projectName: "Classroom with Video Chat",
+    techStack:"React for frontend. And Node.JS, Express.JS, and MongoDb for backend."
+   }
 ];
