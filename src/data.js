@@ -118,5 +118,9 @@ export const projectsData = [
    {
     projectName: "Classroom with Video Chat",
     techStack:"React for frontend. And Node.JS, Express.JS, and MongoDB for backend."
-   }
+   },
+{
+      projectName: "Alpha",
+      techStack: "An AI which can find anyone , anytime , anywhere in the world by just typing his name and showing his/her picture to ALPHA",
+   },
 ];
