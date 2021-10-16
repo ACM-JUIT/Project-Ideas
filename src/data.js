@@ -118,5 +118,9 @@ export const projectsData = [
    {
     projectName: "Classroom with Video Chat",
     techStack:"React for frontend. And Node.JS, Express.JS, and MongoDB for backend."
-   }
+   },
+   {
+      projectName: "Furnitioner",
+      techStack: "FLUTTER Android App for auctioning old furnitures",
+   },
 ];
