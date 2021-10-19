@@ -119,8 +119,12 @@ export const projectsData = [
     projectName: "Classroom with Video Chat",
     techStack:"React for frontend. And Node.JS, Express.JS, and MongoDB for backend."
    },
+     {
+   projectName: "Music app recommender system",
+    techStack:"Creating a filtering system for songs in a music appliction by applying Machine Learning algorithms"
+     },
    {
       projectName: "Clothes collection",
     techStack:"Flutter. An AI based flutter application that suggests clothes as per user reference."
-   }
+   },
 ];
