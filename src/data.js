@@ -122,5 +122,13 @@ export const projectsData = [
    {
       projectName: "Furnitioner",
       techStack: "FLUTTER Android App for auctioning old furnitures",
+   }, 
+     {
+   projectName: "Music app recommender system",
+    techStack:"Creating a filtering system for songs in a music appliction by applying Machine Learning algorithms"
+     },
+   {
+      projectName: "Clothes collection",
+    techStack:"Flutter. An AI based flutter application that suggests clothes as per user reference."
    },
 ];
