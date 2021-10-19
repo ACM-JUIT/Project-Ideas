@@ -1,4 +1,4 @@
-export const projectsData = [
+0export const projectsData = [
    {
       projectName: "Aarhan Khan",
       techStack: "developer of this site",
@@ -135,4 +135,8 @@ export const projectsData = [
       projectName: "Clothes collection",
     techStack:"Flutter. An AI based flutter application that suggests clothes as per user reference."
    },
+{
+      projectName: "Know your Date",
+      techStack: "dating app with a personality test that can help you filter people ",
+    },
 ];
