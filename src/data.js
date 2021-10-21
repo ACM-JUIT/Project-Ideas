@@ -139,4 +139,12 @@ export const projectsData = [
       projectName: "Fitness Trainer App",
       techStack: "This app helps you with your daily exercises and helps you boost your stamina.",
    },
+   {
+    projectName: "Sorting Alorithm Visualizer",
+    techStack:"An interactive visualizer built using Javascript to help graphically visualize multiple sorting algorithms."
+  },
+{
+      projectName: "Know your Date",
+      techStack: "dating app with a personality test that can help you filter people ",
+    },
 ];
