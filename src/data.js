@@ -139,4 +139,8 @@ export const projectsData = [
     projectName: "Sorting Alorithm Visualizer",
     techStack:"An interactive visualizer built using Javascript to help graphically visualize multiple sorting algorithms."
   },
+{
+      projectName: "Know your Date",
+      techStack: "dating app with a personality test that can help you filter people ",
+    },
 ];
