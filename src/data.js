@@ -135,6 +135,10 @@ export const projectsData = [
       projectName: "Clothes collection",
     techStack:"Flutter. An AI based flutter application that suggests clothes as per user reference."
    },
+   {
+    projectName: "Sorting Alorithm Visualizer",
+    techStack:"An interactive visualizer built using Javascript to help graphically visualize multiple sorting algorithms."
+  },
 {
       projectName: "Know your Date",
       techStack: "dating app with a personality test that can help you filter people ",
