@@ -151,4 +151,8 @@ export const projectsData = [
     projectName: "Fast Fingers",
     techStack: "An interactive typing game that projects random words on screen. With every correct word entered within the time limit, the score increments. ",
   },
+  {
+    projectName: "Weather Website",
+    techStack: "A weather website which uses an API to fetch the the current weather conditions of the city entered by the user.",
+  },
 ];
