@@ -151,4 +151,8 @@ export const projectsData = [
     projectName: "Fast Fingers",
     techStack: "An interactive typing game that projects random words on screen. With every correct word entered within the time limit, the score increments. ",
   },
+  {
+    projectName: "DecipherXD",
+    techStack: "A game which includes deciphering ciphers in order to level up. It will help newbies to learn more about different ciphers and how they work.",
+  },
 ];
