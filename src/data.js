@@ -155,4 +155,13 @@ export const projectsData = [
     projectName: "DecipherXD",
     techStack: "A game which includes deciphering ciphers in order to level up. It will help newbies to learn more about different ciphers and how they work.",
   },
+{
+      projectName: "Know your Date",
+      techStack: "dating app with a personality test that can help you filter people ",
+    },
+
+    {
+      projectName: "Your movie",
+      techStack: "this app with the help of your watch history recommed the movies for you ",
+    },
 ];
