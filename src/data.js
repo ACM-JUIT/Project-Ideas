@@ -147,4 +147,9 @@ export const projectsData = [
       projectName: "Know your Date",
       techStack: "dating app with a personality test that can help you filter people ",
     },
+
+    {
+      projectName: "Your movie",
+      techStack: "this app with the help of your watch history recommed the movies for you ",
+    },
 ];
