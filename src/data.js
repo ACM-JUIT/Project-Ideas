@@ -168,4 +168,8 @@ export const projectsData = [
       projectName: "Your movie",
       techStack: "this app with the help of your watch history recommed the movies for you ",
     },
+    {
+      projectName: "Nothing",
+      techStack: "An app that simply does nothing",
+    }
 ];
