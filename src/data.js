@@ -6,5 +6,9 @@ export const projectsData = [
   {
     projectName: "Nothing",
     techStack: "An app that simply does nothing",
+  },
+  {
+    projectName: "Anything",
+    techStack: "An app that simply does anything",
   }
 ];
