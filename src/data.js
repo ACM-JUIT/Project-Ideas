@@ -10,5 +10,10 @@ export const projectsData = [
   {
     projectName: "Webkiosk-App",
     techStack: "An app that bring webkiosk to mobile",
+  },
+  {
+    projectName: "Image Caption Generator",
+    techStack: "An app that generates caption for given image.",
   }
+
 ]
