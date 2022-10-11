@@ -14,6 +14,10 @@ export const projectsData = [
   {
     projectName: "Image Caption Generator",
     techStack: "An app that generates caption for given image.",
+  },
+  {
+    projectName: "The Junkies",
+    techStack: "Doorstep garbage pickup service",
   }
 
 ]
