@@ -19,10 +19,12 @@ export const projectsData = [
     projectName: "The Junkies",
     techStack: "Doorstep garbage pickup service",
   },
-
   {
     projectName: "GitHelper",
     techStack: "helps with any doubts related to Git or GitHub by asking experienced people to be mentors",
   },
-
+  {
+    projectName: "LaundaryFriend",
+    techStack: "App that helps you manage all your laundary needs including doorstep pickup and delivery of your laundary",
+  }
 ]
