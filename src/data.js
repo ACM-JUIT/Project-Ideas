@@ -59,4 +59,8 @@ export const projectsData = [
       projectName: "Easy Learn",
       techStack: "an app that tracks assignments and provides learning material related to them",
       },
+      {
+        projectName: "Mu-Bot",
+        techStack: "Music Bot.",
+        },
   ];
