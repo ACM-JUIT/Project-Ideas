@@ -24,6 +24,22 @@ export const projectsData = [
     techStack: "helps with any doubts related to Git or GitHub by asking experienced people to be mentors",
   },
   {
+    projectName: "Mind Focusing",
+    techStack: "An App which helps you to focus on thing in which you want to focus, Shows you relaxing Wallpapers and also have a Pomodoro clock which helps you start your sessions to Learn new things",
+  }, 
+  {
+    projectName: "Calm",
+    techStack: "An app to help you meditate",
+  },
+  {
+    projectName: "Easy Learn",
+    techStack: "an app that tracks assignments and provides learning material related to them",
+  },
+  {
+    projectName: "Mu-Bot",
+    techStack: "Music Bot.",
+  },
+  {
     projectName: "LaundaryFriend",
     techStack: "App that helps you manage all your laundary needs including doorstep pickup and delivery of your laundary",
   }
