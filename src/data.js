@@ -43,4 +43,8 @@ export const projectsData = [
     projectName: "LaundaryFriend",
     techStack: "App that helps you manage all your laundary needs including doorstep pickup and delivery of your laundary",
   }
+  {
+    projectName: "Trade On",
+    techStack: "App that helps you trade stocks and crypto",
+  }
 ]
