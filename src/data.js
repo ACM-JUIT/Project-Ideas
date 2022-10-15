@@ -46,6 +46,11 @@ export const projectsData = [
   {
       projectName: "Trade On",
       techStack: "an app that helps you trade stocks and crypto",
-  }
+  },
+  {
+    projectName: "GPartner",
+    techStack: "An app that lets you write the name of a game and it will find the mutual players in your nearby surroundings.",
+  },
+
   
 ]
