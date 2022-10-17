@@ -20,6 +20,10 @@ export const projectsData = [
     techStack: "Doorstep garbage pickup service",
   },
   {
+    projectName: "Todo App",
+    techStack: "An app that lists tasks to be done, which can be added, removed and marked as done.",
+  },
+  {
     projectName: "GitHelper",
     techStack: "helps with any doubts related to Git or GitHub by asking experienced people to be mentors",
   },
