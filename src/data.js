@@ -20,6 +20,10 @@ export const projectsData = [
     techStack: "Doorstep garbage pickup service",
   },
   {
+    projectName: "Todo App",
+    techStack: "An app that lists tasks to be done, which can be added, removed and marked as done.",
+  },
+  {
     projectName: "GitHelper",
     techStack: "helps with any doubts related to Git or GitHub by asking experienced people to be mentors",
   },
@@ -51,6 +55,12 @@ export const projectsData = [
     projectName: "GPartner",
     techStack: "An app that lets you write the name of a game and it will find the mutual players in your nearby surroundings.",
   },
-
-  
+  {
+    projectName: "Wholesale",
+    techStack: "an app that helps farmers to sell their crops in wholesale",
+  },
+  {
+    projectName: "Campus Connect",
+    techStack: "an app that does something",
+  }
 ]
