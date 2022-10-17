@@ -62,5 +62,9 @@ export const projectsData = [
   {
     projectName: "Campus Connect",
     techStack: "an app that does something",
+  },
+  {
+    projectName: "Time Table APP",
+    techStack: "An app thats send notification 5 minutes before class.",
   }
 ]
