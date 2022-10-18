@@ -20,6 +20,10 @@ export const projectsData = [
     techStack: "Doorstep garbage pickup service",
   },
   {
+    projectName: "Tic Tac Toe",
+    techStack: "Tic Tac Toe game (X & O), which covers multiple concepts like HTML grid, CSS styling, and Game Logic in JS",
+  },
+  {
     projectName: "Todo App",
     techStack: "An app that lists tasks to be done, which can be added, removed and marked as done.",
   },
