@@ -84,6 +84,10 @@ export const projectsData = [
     techStack: "This is something new",
   },
   {
+    projectName: "Syllabus/Topic Tracker App",
+    techStack: "An app that stores total sylabbus of the upcoming exam and also how much is covered and whats left to do.",
+  },
+  {
     projectName: "Time Table APP",
     techStack: "An app thats send notification 5 minutes before class.",
   }
