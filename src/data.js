@@ -74,6 +74,10 @@ export const projectsData = [
   {
     projectName: "Time Table APP",
     techStack: "An app thats send notification 5 minutes before class.",
-  }
+  },
+  {
+    projectName: "JUIT STUDIFY",
+    techStack: "An app that will have all the academic and non academic detail of the student like attendance percentage,how many holidays the student can take,timetable batch wise,class notification,fees payment notification,cgpa, etc",
+  },
   
 ]
