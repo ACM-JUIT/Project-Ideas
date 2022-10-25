@@ -92,7 +92,8 @@ export const projectsData = [
     techStack: "An app that helps in gardening, organic farming at home. ",
   },
   {
-    projectName: "Tech-Hostel",
-    techStack: "Wardens can approve the outpasses through an app and keep a hassle-free record too . ",
+    projectName: "ThriftStore",
+    techStack: "An app that lets people exchange clothes in need. ",
   }
+  
 ]
