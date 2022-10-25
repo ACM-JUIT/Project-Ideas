@@ -102,9 +102,3 @@ export const projectsData = [
 
   
 ]
-=======
-    projectName: "All in One OTT",
-    techStack: "Brings media content from every OTT platform into one.",
-  }
-]
->>>>>>> ced4be21a522bc1397b13b276d042e58d0d73d34
