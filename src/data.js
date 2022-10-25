@@ -90,5 +90,9 @@ export const projectsData = [
   {
     projectName: "Hortus",
     techStack: "An app that helps in gardening, organic farming at home. ",
+  },
+  {
+    projectName: "Tech-Warden",
+    techStack: "Wardens can approve the outpasses through an app and keep a hassle-free record too. ",
   }
 ]
