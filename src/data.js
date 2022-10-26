@@ -98,5 +98,13 @@ export const projectsData = [
   {
     projectName: "MoodBoards",
     techStack: "An app that makes a mood board in seconds. ",
-  } 
+  },
+  {
+    projectName: "AlarmOG",
+    techStack: "An alarm app that reminds you of the imp. taks of the day so that you wake up with good spirits.",
+  },
+  {
+    projectName: "ProjectGuide",
+    techStack: "An app that contains a sample of projects from previous years in different subjects for freshers",
+  }
 ]
