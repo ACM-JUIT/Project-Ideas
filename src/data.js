@@ -68,8 +68,12 @@ export const projectsData = [
     techStack: "an app that does something",
   },
   {
-    projectName: "Class Notes",
+    projectName: "Class Notes", 
     techStack: "An app which stores notes given in class",
+  },
+  {
+    projectName: "Crazy October", 
+    techStack: "This October is crazy",
   },
   {
     projectName: "Time Table APP",
