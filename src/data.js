@@ -90,5 +90,9 @@ export const projectsData = [
   {
     projectName: "All in One OTT",
     techStack: "Brings media content from every OTT platform into one.",
-  }
+  },
+  {
+    projectName: "Drishy",
+    techStack: "An app to help the differently abled find whether a particular location is handicap friendly and the best possible route to get there.",
+  },
 ]
