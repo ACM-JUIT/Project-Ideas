@@ -90,5 +90,9 @@ export const projectsData = [
   {
     projectName: "All in One OTT",
     techStack: "Brings media content from every OTT platform into one.",
+  },
+  {
+  	projectName: "Water reminder app",
+	techStack: "Be sure to drink the required amount of water everyv day.",
   }
 ]
