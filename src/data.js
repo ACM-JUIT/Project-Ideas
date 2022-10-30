@@ -90,5 +90,9 @@ export const projectsData = [
   {
     projectName: "All in One OTT",
     techStack: "Brings media content from every OTT platform into one.",
-  }
+  },
+  {
+    projectName: "Online Ebook Maker",
+    techStack: "online eBook maker will allow users to design and create eBooks free of cost",
+  },
 ]
