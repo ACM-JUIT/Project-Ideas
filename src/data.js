@@ -88,6 +88,10 @@ export const projectsData = [
     techStack: "An app thats send notification 5 minutes before class.",
   },
   {
+    projectName: "Breast Cancer Detection App",
+    techStack: "An app which keeps a check on any abnormality in breasts.",
+  },
+  {
     projectName: "All in One OTT",
     techStack: "Brings media content from every OTT platform into one.",
   }
