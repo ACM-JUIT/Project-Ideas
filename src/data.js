@@ -88,7 +88,23 @@ export const projectsData = [
     techStack: "An app thats send notification 5 minutes before class.",
   },
   {
-    projectName: "All in One OTT",
-    techStack: "Brings media content from every OTT platform into one.",
+    projectName: "Hortus",
+    techStack: "An app that helps in gardening, organic farming at home. ",
+  },
+  {
+    projectName: "ThriftStore",
+    techStack: "An app that lets people exchange clothes in need. ",
+  },
+  {
+    projectName: "MoodBoards",
+    techStack: "An app that makes a mood board in seconds. ",
+  },
+  {
+    projectName: "AlarmOG",
+    techStack: "An alarm app that reminds you of the imp. taks of the day so that you wake up with good spirits.",
+  },
+  {
+    projectName: "ProjectGuide",
+    techStack: "An app that contains a sample of projects from previous years in different subjects for freshers",
   }
 ]
