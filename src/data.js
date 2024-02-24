@@ -84,6 +84,10 @@ export const projectsData = [
     techStack: "This is something new",
   },
   {
+    projectName: "Sudoku - Classic Sudoku Puzzle",
+    techStack: "5,000+ Sudoku puzzles, 4 difficulty levels, daily challenges, pencil mode.",
+  },
+  {
     projectName: "Time Table APP",
     techStack: "An app thats send notification 5 minutes before class.",
   },
